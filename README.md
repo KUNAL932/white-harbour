@@ -1,2 +1,2 @@
 # white-harbour
-Ecomerce website made in Flask, mongodb
+E commerce website made in Flask, mongodb
