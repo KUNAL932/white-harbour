@@ -15,3 +15,5 @@ class SignupApi(Resource):
         user.save()
         id = user.id
         return {'id': str(id)}, 200
+
+        
